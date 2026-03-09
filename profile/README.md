@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/memor1al-project/.github/main/logo.jpeg" alt="The Memorial Project" width="180" style="border-radius:50%;" />
+
 <img src="https://img.shields.io/badge/🕯️-The_Memorial_Project-b8860b?style=for-the-badge&labelColor=0e0c0a" alt="The Memorial Project" />
 
 # The Memorial Project
