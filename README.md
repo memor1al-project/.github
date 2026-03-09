@@ -3,7 +3,7 @@
 Organization profile and community health files for [The Memorial Project](https://memorial-project.org/).
 
 - **[profile/README.md](profile/README.md)** — Rendered as the public landing page on the [memor1al-project GitHub organization](https://github.com/memor1al-project)
-- **[index.html](index.html)** — Full interactive page served via [GitHub Pages](https://memor1al-project.github.io/.github/)
+- **[index.html](index.html)** — Full interactive page served via [GitHub Pages](https://memor1al-project.github.io/) (deployed from the `memor1al-project.github.io` repo)
 
 ## Our Projects
 

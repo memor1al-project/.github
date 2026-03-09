@@ -8,7 +8,7 @@
 
 We use artificial intelligence to ensure Holocaust testimonies, survivor stories, and historical records endure — not as static archives, but as living, accessible knowledge.
 
-**[Visit Our Full Interactive Page](https://memor1al-project.github.io/.github/)**
+**[Visit Our Full Interactive Page](https://memor1al-project.github.io/)**
 
 ---
 
@@ -112,7 +112,7 @@ Our technical foundation combines large language models, multimodal AI, graph da
 
 Whether you're a researcher, developer, educator, or institution — there is a place for you in this mission.
 
-**[Visit the Platform](https://memorial-project.org/)** · **[Full Interactive Page](https://memor1al-project.github.io/.github/)** · **[Get in Touch](mailto:info@memorial-project.org)**
+**[Visit the Platform](https://memorial-project.org/)** · **[Full Interactive Page](https://memor1al-project.github.io/)** · **[Get in Touch](mailto:info@memorial-project.org)**
 
 ---
 
