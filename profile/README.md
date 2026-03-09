@@ -112,7 +112,7 @@ Our technical foundation combines large language models, multimodal AI, graph da
 
 Whether you're a researcher, developer, educator, or institution — there is a place for you in this mission.
 
-**[Visit the Platform](https://memorial-project.org/)** · **[Full Interactive Page](https://memor1al-project.github.io/)** · **[Get in Touch](mailto:info@memorial-project.org)**
+**[Visit the Platform](https://memorial-project.org/)** · **[Full Interactive Page](https://memor1al-project.github.io/)** · **[Get in Touch](mailto:liorp@memorial-project.org)**
 
 ---
 
