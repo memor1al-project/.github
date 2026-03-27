@@ -75,6 +75,18 @@ Honoring the veterans who bore witness and fought back. A memorial platform pres
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
+**Education · Jewish Identity**
+
+Seven bite-sized stories exploring the richness and diversity of Jewish identity. Designed for educators and learners alike, each narrative offers an accessible entry point into Jewish culture, history, and lived experience.
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
