@@ -85,6 +85,12 @@ Seven bite-sized stories exploring the richness and diversity of Jewish identity
 
 </td>
 <td width="50%">
+
+### [Return to the Land](https://zionism-decolonization.web.app/)
+**Education · History**
+
+Exploring Zionism as the world's only successful indigenous decolonization movement. A historical and educational resource examining the Jewish people's deep-rooted connection to their ancestral homeland and the modern return that redefined nationhood.
+
 </td>
 </tr>
 </table>

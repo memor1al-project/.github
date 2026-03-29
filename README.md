@@ -14,6 +14,7 @@ Organization profile and community health files for [The Memorial Project](https
 | **Tell Institute Course** | Educational course on Jewish identity, history, and culture | [tell-institute-course.web.app](https://tell-institute-course.web.app/) |
 | **Canadian WW2 Veterans** | Digital memorial honoring Canadian World War II veterans | [veteran-memorial-site.web.app](https://veteran-memorial-site-d8829.web.app/) |
 | **7 Minutes · 7 Stories** | Bite-sized stories exploring Jewish identity, culture, and history | [seven-stories-jewish-identity.web.app](https://seven-stories-jewish-identity.web.app/) |
+| **Return to the Land** | Zionism as the world's only successful indigenous decolonization movement | [zionism-decolonization.web.app](https://zionism-decolonization.web.app/) |
 
 ## GitHub Pages
 
