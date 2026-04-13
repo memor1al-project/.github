@@ -36,7 +36,8 @@ Ingest, structure, and semantically enrich fragile historical records across ins
 
 </div>
 
-## Active Projects
+## Memorial Stories
+*Preserving voices. Honoring lives.*
 
 <table>
 <tr>
@@ -51,12 +52,38 @@ The central platform for AI-powered Holocaust testimony preservation. Aggregatin
 <td width="50%">
 
 ### [Regina Feldman](https://vhec-regina-feldman.web.app/)
-**Memorial Site · VHEC Collaboration**
+**Memorial · VHEC Collaboration**
 
 A dedicated memorial for Holocaust survivor Regina Feldman, created in partnership with the **Vancouver Holocaust Education Centre**. Her testimony, photographs, and life story — preserved for future generations, told in her own voice.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Voices of Resilience — Anita's Story](https://memorial-heritage-project.web.app/stories)
+**Memorial · Survivor Testimony**
+
+Preserving the stories of Holocaust survivors — their courage, their loss, and their enduring legacy. Anita's testimony is a window into the resilience of those who endured the unimaginable and chose to bear witness for future generations.
+
+</td>
+<td width="50%">
+
+### [Veteran Memorial](https://veteran-memorial-site-d8829.web.app/)
+**Memorial · Veterans**
+
+Honoring the veterans who bore witness and fought back. A memorial platform preserving the stories of **Canadian men and women who served in World War II** — interweaving military history with personal testimony.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Educational Projects
+*Understanding history. Confronting ignorance.*
+
+<table>
 <tr>
 <td width="50%">
 
@@ -68,22 +95,14 @@ An AI-enhanced educational course developed with **The Tell Institute**, explori
 </td>
 <td width="50%">
 
-### [Veteran Memorial](https://veteran-memorial-site-d8829.web.app/)
-**Memorial Site · Veterans**
-
-Honoring the veterans who bore witness and fought back. A memorial platform preserving the stories of **Canadian men and women who served in World War II** — interweaving military history with personal testimony.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
 **Education · Jewish Identity**
 
 Seven bite-sized stories exploring the richness and diversity of Jewish identity. Designed for educators and learners alike, each narrative offers an accessible entry point into Jewish culture, history, and lived experience.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Return to the Land](https://zionism-decolonization.web.app/)
@@ -91,6 +110,26 @@ Seven bite-sized stories exploring the richness and diversity of Jewish identity
 
 Exploring Zionism as the world's only successful indigenous decolonization movement. A historical and educational resource examining the Jewish people's deep-rooted connection to their ancestral homeland and the modern return that redefined nationhood.
 
+</td>
+<td width="50%">
+
+### [One Region, Many Stories](https://one-region-stories.web.app/)
+**Education · Geopolitics**
+
+All 24 nations rose from the same imperial collapse after World War I. But their paths since independence went in very different directions. An interactive exploration of how — and why — nations shaped by the same history arrived at such different futures.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Soviet Anti-Zionism](https://soviet-antizionism.web.app/)
+**Education · Primary Sources**
+
+The weaponization of the word "Zionist" — a 45-minute lesson through images, video, and primary sources. Tracing how Soviet propaganda systematically distorted language to delegitimize Jewish self-determination, with echoes still felt today.
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
