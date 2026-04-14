@@ -130,6 +130,12 @@ The weaponization of the word "Zionist" — a 45-minute lesson through images, v
 
 </td>
 <td width="50%">
+
+### [Jewish Soldiers of World War II](https://jewish-soldiers-in-ww2.web.app/)
+**Education · Military History**
+
+Over 1.5 million Jews served in Allied armies while 6 million were murdered. Documenting Jewish military sacrifice across eight nations, countering historical erasure and connecting service to Holocaust history and Israel's founding.
+
 </td>
 </tr>
 </table>
