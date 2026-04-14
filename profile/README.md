@@ -80,43 +80,25 @@ Honoring the veterans who bore witness and fought back. A memorial platform pres
 
 ---
 
-## Educational Projects
-*Understanding history. Confronting ignorance.*
+## Educational Projects · Deep Dives
+*Comprehensive courses and in-depth resources for classrooms, educators, and lifelong learners.*
 
 <table>
 <tr>
 <td width="50%">
 
 ### [Tell Institute Course](https://tell-institute-course.web.app/)
-**Education · Curriculum**
+**Deep Dive · Curriculum**
 
 An AI-enhanced educational course developed with **The Tell Institute**, exploring Jewish identity, history, and culture. Interactive, testimony-grounded, and designed to meet students where they are.
 
 </td>
 <td width="50%">
 
-### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
-**Education · Jewish Identity**
-
-Seven bite-sized stories exploring the richness and diversity of Jewish identity. Designed for educators and learners alike, each narrative offers an accessible entry point into Jewish culture, history, and lived experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [Return to the Land](https://zionism-decolonization.web.app/)
-**Education · History**
+**Deep Dive · History**
 
 Exploring Zionism as the world's only successful indigenous decolonization movement. A historical and educational resource examining the Jewish people's deep-rooted connection to their ancestral homeland and the modern return that redefined nationhood.
-
-</td>
-<td width="50%">
-
-### [One Region, Many Stories](https://one-region-stories.web.app/)
-**Education · Geopolitics**
-
-All 24 nations rose from the same imperial collapse after World War I. But their paths since independence went in very different directions. An interactive exploration of how — and why — nations shaped by the same history arrived at such different futures.
 
 </td>
 </tr>
@@ -124,7 +106,7 @@ All 24 nations rose from the same imperial collapse after World War I. But their
 <td width="50%">
 
 ### [Soviet Anti-Zionism](https://soviet-antizionism.web.app/)
-**Education · Primary Sources**
+**Deep Dive · Primary Sources**
 
 The weaponization of the word "Zionist" — a 45-minute lesson through images, video, and primary sources. Tracing how Soviet propaganda systematically distorted language to delegitimize Jewish self-determination, with echoes still felt today.
 
@@ -132,22 +114,44 @@ The weaponization of the word "Zionist" — a 45-minute lesson through images, v
 <td width="50%">
 
 ### [Jewish Soldiers of World War II](https://jewish-soldiers-in-ww2.web.app/)
-**Education · Military History**
+**Deep Dive · Military History**
 
 Over 1.5 million Jews served in Allied armies while 6 million were murdered. Documenting Jewish military sacrifice across eight nations, countering historical erasure and connecting service to Holocaust history and Israel's founding.
 
 </td>
 </tr>
+</table>
+
+---
+
+## Educational Projects · Shorts
+*Bite-sized infographics and highlight examinations — fast, impactful learning.*
+
+<table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### [The Century of Displacement](https://century-of-displacement.web.app/)
-**Education · Forced Migration**
+### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
+**Short · Jewish Identity**
 
-From 1914 to 1977, empire collapse and nation-state formation uprooted over 80 million people. Tracing five phases of forced migration — from the Armenian genocide to India's partition — revealing how borders that never matched populations reshaped the modern world.
+Seven bite-sized stories exploring the richness and diversity of Jewish identity — an accessible entry point into Jewish culture, history, and lived experience.
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### [One Region, Many Stories](https://one-region-stories.web.app/)
+**Short · Geopolitics**
+
+24 nations rose from the same imperial collapse after WWI. Their paths diverged dramatically. A visual exploration of how and why.
+
+</td>
+<td width="33%">
+
+### [The Century of Displacement](https://century-of-displacement.web.app/)
+**Short · Forced Migration**
+
+From 1914 to 1977, over 80 million people uprooted. Five phases of forced migration that reshaped the modern world.
+
 </td>
 </tr>
 </table>
