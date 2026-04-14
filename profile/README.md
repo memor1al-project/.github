@@ -113,11 +113,6 @@ The weaponization of the word "Zionist" — a 45-minute lesson through images, v
 </td>
 <td width="50%">
 
-### [Jewish Soldiers of World War II](https://jewish-soldiers-in-ww2.web.app/)
-**Deep Dive · Military History**
-
-Over 1.5 million Jews served in Allied armies while 6 million were murdered. Documenting Jewish military sacrifice across eight nations, countering historical erasure and connecting service to Holocaust history and Israel's founding.
-
 </td>
 </tr>
 </table>
@@ -129,7 +124,7 @@ Over 1.5 million Jews served in Allied armies while 6 million were murdered. Doc
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
 **Short · Jewish Identity**
@@ -137,7 +132,7 @@ Over 1.5 million Jews served in Allied armies while 6 million were murdered. Doc
 Seven bite-sized stories exploring the richness and diversity of Jewish identity — an accessible entry point into Jewish culture, history, and lived experience.
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### [One Region, Many Stories](https://one-region-stories.web.app/)
 **Short · Geopolitics**
@@ -145,12 +140,22 @@ Seven bite-sized stories exploring the richness and diversity of Jewish identity
 24 nations rose from the same imperial collapse after WWI. Their paths diverged dramatically. A visual exploration of how and why.
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### [The Century of Displacement](https://century-of-displacement.web.app/)
 **Short · Forced Migration**
 
 From 1914 to 1977, over 80 million people uprooted. Five phases of forced migration that reshaped the modern world.
+
+</td>
+<td width="50%">
+
+### [Jewish Soldiers of World War II](https://jewish-soldiers-in-ww2.web.app/)
+**Short · Military History**
+
+Over 1.5 million Jews served in Allied armies while 6 million were murdered. Documenting Jewish military sacrifice across eight nations.
 
 </td>
 </tr>
