@@ -76,6 +76,18 @@ Honoring the veterans who bore witness and fought back. A memorial platform pres
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [The Righteous](https://memorial-heritage-project.web.app/righteous)
+**Memorial · Righteous Among the Nations**
+
+Honoring the non-Jews who risked their lives to save Jews during the Holocaust — the **Righteous Among the Nations**. Stories of extraordinary courage and moral clarity in the darkest of times, preserving the memory of those who chose humanity when it cost everything.
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---

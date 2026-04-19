@@ -13,6 +13,7 @@ Organization profile and community health files for [The Memorial Project](https
 | **Regina Feldman** | Holocaust survivor memorial, with the Vancouver Holocaust Education Centre | [vhec-regina-feldman.web.app](https://vhec-regina-feldman.web.app/) |
 | **Anita's Story** | Voices of Resilience — preserving Holocaust survivor stories | [memorial-heritage-project.web.app](https://memorial-heritage-project.web.app/stories) |
 | **Canadian WW2 Veterans** | Digital memorial honoring Canadian World War II veterans | [veteran-memorial-site.web.app](https://veteran-memorial-site-d8829.web.app/) |
+| **The Righteous** | Honoring the Righteous Among the Nations — rescuers of Jews during the Holocaust | [memorial-heritage-project.web.app/righteous](https://memorial-heritage-project.web.app/righteous) |
 
 ## Educational Projects · Deep Dives
 
