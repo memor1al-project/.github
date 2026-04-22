@@ -171,6 +171,18 @@ Over 1.5 million Jews served in Allied armies while 6 million were murdered. Doc
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Israel at War: 1948–2026](https://israel-at-war-memorial.web.app/)
+**Short · Israel at War**
+
+An interactive infographic charting 78 years of Israel's conflicts — from the War of Independence to today. Maps, timelines, and casualty data honor over 25,000 fallen while revealing how a nation built itself in the face of every generation's threats.
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
