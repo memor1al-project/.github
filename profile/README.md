@@ -181,6 +181,12 @@ An interactive infographic charting 78 years of Israel's conflicts — from the 
 
 </td>
 <td width="50%">
+
+### [Jewish Settlements Across History](https://jewish-settlements-history.web.app/)
+**Short · Historical Atlas**
+
+3,000 years of Jewish settlement on an interactive world map — from the Kingdom of David to modern Israel. Travel through time to see where Jews lived, under which empires, with what rights, and for how long. Every home we ever had.
+
 </td>
 </tr>
 </table>

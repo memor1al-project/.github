@@ -31,6 +31,7 @@ Organization profile and community health files for [The Memorial Project](https
 | **Century of Displacement** | 80M+ uprooted from 1914–1977 — forced migration across five phases of empire collapse | [century-of-displacement.web.app](https://century-of-displacement.web.app/) |
 | **Jewish Soldiers of WW2** | 1.5M+ Jews in Allied armies — military history meets Holocaust education | [jewish-soldiers-in-ww2.web.app](https://jewish-soldiers-in-ww2.web.app/) |
 | **Israel at War: 1948–2026** | Interactive infographic of 78 years of Israel's conflicts and fallen | [israel-at-war-memorial.web.app](https://israel-at-war-memorial.web.app/) |
+| **Jewish Settlements Across History** | 3,000 years of Jewish settlement on an interactive world map | [jewish-settlements-history.web.app](https://jewish-settlements-history.web.app/) |
 
 ## GitHub Pages
 
