@@ -32,6 +32,7 @@ Organization profile and community health files for [The Memorial Project](https
 | **Jewish Soldiers of WW2** | 1.5M+ Jews in Allied armies — military history meets Holocaust education | [jewish-soldiers-in-ww2.web.app](https://jewish-soldiers-in-ww2.web.app/) |
 | **Israel at War: 1948–2026** | Interactive infographic of 78 years of Israel's conflicts and fallen | [israel-at-war-memorial.web.app](https://israel-at-war-memorial.web.app/) |
 | **Jewish Settlements Across History** | 3,000 years of Jewish settlement on an interactive world map | [jewish-settlements-history.web.app](https://jewish-settlements-history.web.app/) |
+| **Empires, Colonies & Religion** | 2,200 years of colonialism — 31 territories, 17 imperial powers, religion imposed and revived | [empires-colonies-religion.web.app](https://empires-colonies-religion.web.app/) |
 
 ## GitHub Pages
 

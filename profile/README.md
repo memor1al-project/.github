@@ -189,6 +189,18 @@ An interactive infographic charting 78 years of Israel's conflicts — from the 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Empires, Colonies & Religion](https://empires-colonies-religion.web.app/)
+**Short · Empires & Colonialism**
+
+2,200 years of colonialism on a single map. Track 31 territories ruled by 17 imperial powers — Rome, the Caliphate, Ottoman, Spain, Britain, France, Russia, USA, and more. See how religion was imposed, replaced, or revived across every century of conquest.
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
