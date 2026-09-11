@@ -14,6 +14,7 @@ Organization profile and community health files for [The Memorial Project](https
 | **Anita's Story** | Voices of Resilience — preserving Holocaust survivor stories | [memorial-heritage-project.web.app](https://memorial-heritage-project.web.app/stories) |
 | **Canadian WW2 Veterans** | Digital memorial honoring Canadian World War II veterans | [veteran-memorial-site.web.app](https://veteran-memorial-site-d8829.web.app/) |
 | **The Righteous** | Honoring the Righteous Among the Nations — rescuers of Jews during the Holocaust | [memorial-heritage-project.web.app/righteous](https://memorial-heritage-project.web.app/righteous) |
+| **Story Studio** | Zikaron BaSalon collaboration — helping families and hosts gather and present a survivor's story | [zikaronbasalon-story-studio.web.app](https://zikaronbasalon-story-studio.web.app/) |
 
 ## Educational Projects · Deep Dives
 

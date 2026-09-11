@@ -86,6 +86,12 @@ Honoring the non-Jews who risked their lives to save Jews during the Holocaust �
 
 </td>
 <td width="50%">
+
+### [Story Studio](https://zikaronbasalon-story-studio.web.app/)
+**Memorial · Zikaron BaSalon Collaboration**
+
+A joint initiative with **Zikaron BaSalon** — "Memory in the Living Room" — helping families and hosts gather and share a survivor's story, with care. A guided collection wizard turns photographs, letters, and recordings into an evening's presentation, while the testimony navigator breaks each recording into chapters guests can move through themselves.
+
 </td>
 </tr>
 </table>
