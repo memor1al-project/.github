@@ -37,4 +37,16 @@ Organization profile and community health files for [The Memorial Project](https
 
 ## GitHub Pages
 
-The `index.html` at the root of this repo is deployed via GitHub Pages. To enable it, go to **Settings > Pages** and set the source to the `main` branch, root (`/`) directory.
+The live site at [memor1al-project.github.io](https://memor1al-project.github.io/) is **not** served from this repo. It is served from the separate [`memor1al-project.github.io`](https://github.com/memor1al-project/memor1al-project.github.io) repo, which holds a byte-identical copy of `index.html`.
+
+When you change `index.html` here, mirror it there to publish:
+
+```bash
+git clone https://github.com/memor1al-project/memor1al-project.github.io.git
+cp index.html memor1al-project.github.io/index.html
+cd memor1al-project.github.io
+git commit -am "<same message used here>"
+git push origin main
+```
+
+Pages rebuilds on push, typically live within a minute.
