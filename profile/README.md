@@ -43,6 +43,8 @@ Ingest, structure, and semantically enrich fragile historical records across ins
 <tr>
 <td width="50%">
 
+<a href="https://memorial-project.org/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/memorial-project.png" alt="The Memorial Project" width="100%" /></a>
+
 ### [The Memorial Project](https://memorial-project.org/)
 **Platform · Main Hub**
 
@@ -50,6 +52,8 @@ The central platform for AI-powered Holocaust testimony preservation. Aggregatin
 
 </td>
 <td width="50%">
+
+<a href="https://vhec-regina-feldman.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/regina-feldman.png" alt="Regina Feldman" width="100%" /></a>
 
 ### [Regina Feldman](https://vhec-regina-feldman.web.app/)
 **Memorial · VHEC Collaboration**
@@ -61,6 +65,8 @@ A dedicated memorial for Holocaust survivor Regina Feldman, created in partnersh
 <tr>
 <td width="50%">
 
+<a href="https://memorial-heritage-project.web.app/stories"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/anita-story.png" alt="Voices of Resilience — Anita's Story" width="100%" /></a>
+
 ### [Voices of Resilience — Anita's Story](https://memorial-heritage-project.web.app/stories)
 **Memorial · Survivor Testimony**
 
@@ -68,6 +74,8 @@ Preserving the stories of Holocaust survivors — their courage, their loss, and
 
 </td>
 <td width="50%">
+
+<a href="https://veteran-memorial-site-d8829.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/veteran-memorial.png" alt="Veteran Memorial" width="100%" /></a>
 
 ### [Veteran Memorial](https://veteran-memorial-site-d8829.web.app/)
 **Memorial · Veterans**
@@ -79,6 +87,8 @@ Honoring the veterans who bore witness and fought back. A memorial platform pres
 <tr>
 <td width="50%">
 
+<a href="https://memorial-heritage-project.web.app/righteous"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/the-righteous.png" alt="The Righteous" width="100%" /></a>
+
 ### [The Righteous](https://memorial-heritage-project.web.app/righteous)
 **Memorial · Righteous Among the Nations**
 
@@ -86,6 +96,8 @@ Honoring the non-Jews who risked their lives to save Jews during the Holocaust �
 
 </td>
 <td width="50%">
+
+<a href="https://zikaronbasalon-story-studio.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/story-studio.png" alt="Story Studio" width="100%" /></a>
 
 ### [Story Studio](https://zikaronbasalon-story-studio.web.app/)
 **Memorial · Zikaron BaSalon Collaboration**
@@ -113,6 +125,8 @@ An AI-enhanced educational course developed with **The Tell Institute**, explori
 </td>
 <td width="50%">
 
+<a href="https://zionism-decolonization.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/return-to-the-land.png" alt="Return to the Land" width="100%" /></a>
+
 ### [Return to the Land](https://zionism-decolonization.web.app/)
 **Deep Dive · History**
 
@@ -122,6 +136,8 @@ Exploring Zionism as the world's only successful indigenous decolonization movem
 </tr>
 <tr>
 <td width="50%">
+
+<a href="https://soviet-antizionism.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/soviet-antizionism.png" alt="Soviet Anti-Zionism" width="100%" /></a>
 
 ### [Soviet Anti-Zionism](https://soviet-antizionism.web.app/)
 **Deep Dive · Primary Sources**
@@ -144,6 +160,8 @@ The weaponization of the word "Zionist" — a 45-minute lesson through images, v
 <tr>
 <td width="50%">
 
+<a href="https://seven-stories-jewish-identity.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/seven-stories.png" alt="7 Minutes · 7 Stories" width="100%" /></a>
+
 ### [7 Minutes · 7 Stories](https://seven-stories-jewish-identity.web.app/)
 **Short · Jewish Identity**
 
@@ -151,6 +169,8 @@ Seven bite-sized stories exploring the richness and diversity of Jewish identity
 
 </td>
 <td width="50%">
+
+<a href="https://one-region-stories.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/one-region.png" alt="One Region, Many Stories" width="100%" /></a>
 
 ### [One Region, Many Stories](https://one-region-stories.web.app/)
 **Short · Geopolitics**
@@ -170,6 +190,8 @@ From 1914 to 1977, over 80 million people uprooted. Five phases of forced migrat
 </td>
 <td width="50%">
 
+<a href="https://jewish-soldiers-in-ww2.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/jewish-soldiers.png" alt="Jewish Soldiers of World War II" width="100%" /></a>
+
 ### [Jewish Soldiers of World War II](https://jewish-soldiers-in-ww2.web.app/)
 **Short · Military History**
 
@@ -188,6 +210,8 @@ An interactive infographic charting 78 years of Israel's conflicts — from the 
 </td>
 <td width="50%">
 
+<a href="https://jewish-settlements-history.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/jewish-settlements.png" alt="Jewish Settlements Across History" width="100%" /></a>
+
 ### [Jewish Settlements Across History](https://jewish-settlements-history.web.app/)
 **Short · Historical Atlas**
 
@@ -197,6 +221,8 @@ An interactive infographic charting 78 years of Israel's conflicts — from the 
 </tr>
 <tr>
 <td width="50%">
+
+<a href="https://empires-colonies-religion.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/empires-colonies-religion.png" alt="Empires, Colonies & Religion" width="100%" /></a>
 
 ### [Empires, Colonies & Religion](https://empires-colonies-religion.web.app/)
 **Short · Empires & Colonialism**
