@@ -2,13 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/memor1al-project/.github/main/logo.jpeg" alt="The Memorial Project" width="180" style="border-radius:50%;" />
 
-<img src="https://img.shields.io/badge/🕯️-The_Memorial_Project-b8860b?style=for-the-badge&labelColor=0e0c0a" alt="The Memorial Project" />
 
 # The Memorial Project
 
 ### Preserving *memory.* Defying forgetting.
 
 We use artificial intelligence to ensure Holocaust testimonies, survivor stories, and historical records endure — not as static archives, but as living, accessible knowledge.
+
+<img src="https://img.shields.io/badge/🕯️-The_Memorial_Project-b8860b?style=for-the-badge&labelColor=0e0c0a" alt="The Memorial Project" />
 
 **[Visit Our Full Interactive Page](https://memor1al-project.github.io/)**
 
