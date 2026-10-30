@@ -182,6 +182,8 @@ Seven bite-sized stories exploring the richness and diversity of Jewish identity
 <tr>
 <td width="50%">
 
+<a href="https://century-of-displacement.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/century-of-displacement.png" alt="The Century of Displacement" width="100%" /></a>
+
 ### [The Century of Displacement](https://century-of-displacement.web.app/)
 **Short · Forced Migration**
 
@@ -201,6 +203,8 @@ Over 1.5 million Jews served in Allied armies while 6 million were murdered. Doc
 </tr>
 <tr>
 <td width="50%">
+
+<a href="https://israel-at-war-memorial.web.app/"><img src="https://raw.githubusercontent.com/memor1al-project/.github/main/profile/images/israel-at-war.png" alt="Israel at War: 1948–2026" width="100%" /></a>
 
 ### [Israel at War: 1948–2026](https://israel-at-war-memorial.web.app/)
 **Short · Israel at War**
